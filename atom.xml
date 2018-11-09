@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.Zou</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-08T10:43:27.145Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mr.Zou</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>打死你个龟孙</title>
+    <link href="http://yoursite.com/2018/11/08/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90/"/>
+    <id>http://yoursite.com/2018/11/08/今天是个好日子/</id>
+    <published>2018-11-08T10:41:38.000Z</published>
+    <updated>2018-11-08T10:43:27.145Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="打死你个龟孙"><a href="#打死你个龟孙" class="headerlink" title="打死你个龟孙"></a>打死你个龟孙</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">dsa</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;打死你个龟孙&quot;&gt;&lt;a href=&quot;#打死你个龟孙&quot; class=&quot;headerlink&quot; title=&quot;打死你个龟孙&quot;&gt;&lt;/a&gt;打死你个龟孙&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gut
+      
+    
+    </summary>
+    
+    
+      <category term="打死你个龟孙" scheme="http://yoursite.com/tags/%E6%89%93%E6%AD%BB%E4%BD%A0%E4%B8%AA%E9%BE%9F%E5%AD%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录你的美</title>
+    <link href="http://yoursite.com/2018/11/08/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yoursite.com/2018/11/08/第一次开始/</id>
+    <published>2018-11-08T08:08:57.083Z</published>
+    <updated>2018-11-08T10:00:20.887Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="终于好了"><a href="#终于好了" class="headerlink" title="终于好了"></a>终于好了</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;终于好了&quot;&gt;&lt;a href=&quot;#终于好了&quot; class=&quot;headerlink&quot; title=&quot;终于好了&quot;&gt;&lt;/a&gt;终于好了&lt;/h3&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
